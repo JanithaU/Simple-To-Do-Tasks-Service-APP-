@@ -37,8 +37,8 @@ docker-compose up --build
 ```
 
 #### with the default configuration (.env) 
-FE  url : http://localhost:8080/
-BE url(Swagger UI doc) : http://localhost:8000/docs  
+- FE  url : http://localhost:8080/
+- BE url(Swagger UI doc) : http://localhost:8000/docs  
 
 
 
